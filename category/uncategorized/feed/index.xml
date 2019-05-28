@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Lead the Way Photography</title>
-	<atom:link href="https://alexisfat.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Lead the Way Photography</title>
+	<atom:link href="https://alexisfat.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://alexisfat.github.io</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 28 May 2019 01:50:56 +0000</lastBuildDate>
